@@ -14,8 +14,8 @@
         </div>
         <div class="table-display">        
 
-            <div class="table-cell">
-                <a class="img-link with-padding">
+            <div class="table-cell with-padding">
+                <a class="img-link ">
                     <span class="img-first-span  table-display">
                         <span class="img-second-span table-cell">
                             <img src="public/img/shop/41hSJRRe8aL.jpg">

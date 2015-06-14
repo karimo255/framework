@@ -376,4 +376,25 @@ header {
 .grid-ein-fuenftel {
     display: none;
 }
+.grid-vier-fuenftel{
+    width: 100%;
+    padding: 0 5px;
+}
+.with-padding {
+    display: block !important;
+    float: left;
+    width: 50%;
+    padding: 2px;
+}
+.table-cell.with-padding:nth-child(2n+1) {
+    clear: both;
+}
+
+.table-cell.ein-von-vielen-viertels:nth-child(2n+1) {
+    clear: both;
+}
+.ein-von-vielen-viertels {
+    float: left;
+    width: 50%;
+}
 }
