@@ -23,7 +23,7 @@
                         <div class="header-bar-right-float-right">
                             <div class="header-bar__module"><a><span class="shopping-cart"><i class="icon-shopping-cart"></i></span>Einkaufswagen</a></div>
                             <span class="header-bar__sep" aria-hidden="true">|</span>
-                            <div class="header-bar__module"><a>Anmelden</a></div>
+                            <div class="header-bar__module"><a href="login">Anmelden</a></div>
                             <div class="header-bar__module header-bar-search">
                                 <form>
                                     <input type="search" class="">
@@ -59,8 +59,8 @@
                     <div class='site-header-zwei-drittel table-cell desktop'>
                         <div class="">
                             <ul class="site-nav">
-                                <li><a>Home</a></li>
-                                <li class="has-dropdown"><a>Katalog<span><i class="icon-angle-down"></i></span></a>
+                                <li><a href="/">Home</a></li>
+                                <li class="has-dropdown"><a href="katalog">Katalog<span><i class="icon-angle-down"></i></span></a>
                                     <ul class="site-nav-dropdown">
                                         <li>Desktop PCs</li>
                                         <li>Notebooks</li>
@@ -69,7 +69,7 @@
                                         <li>Accessoirs</li>                                        
                                     </ul>
                                 </li>
-                                <li><a>Blog</a></li>
+                                <li><a href="blog">Blog</a></li>
                                 <li><a href="ueberuns">Über uns</a></li>
                             </ul>
                         </div>

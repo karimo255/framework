@@ -8,7 +8,7 @@
                 <h4>Schnellzugriff</h4>
                 <ul>
                     <li>Kontakt</li>
-                    <li>Über uns</li>
+                    <li><a href="ueberuns">Über uns</a></li>
                     <li>Suchen</li>
                     <li>Versandkosten </li>
                     <li>Rücknahmegarantie</li>
