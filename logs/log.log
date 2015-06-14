@@ -1,0 +1,7 @@
+
+[2015-05-01 11:52:59]: [Database][ERROR] - Verbindung gescheitertAccess denied for user 'root'@'localhost' (using password: YES)
+[2015-05-01 11:56:06]: [template][WARNING] - file /var/www/assalam/templates/admin/login/form.tpl  existiert nicht!2
+[2015-06-05 19:19:37]: [Database][ERROR] - Verbindung gescheitertUnknown MySQL server host 'mysql.hostinger.de' (2)
+[2015-06-05 19:35:49]: [template][WARNING] - file /var/wwwtemplates/admin/login/form.tpl  existiert nicht!2
+[2015-06-05 19:36:40]: [template][WARNING] - file /var/wwwtemplates/admin/login/form.tpl  existiert nicht!2
+[2015-06-05 19:36:41]: [template][WARNING] - file /var/wwwtemplates/admin/login/form.tpl  existiert nicht!2

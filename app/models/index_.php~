@@ -1,0 +1,19 @@
+<?php
+
+
+include CMS .'db/class-db.php';
+
+if (!class_exists('Index_')){
+class Index_ extends main_view  {
+
+	function __construct() {
+        parent::__construct();
+
+            
+        }     
+        public function __destruct() {
+            parent::__destruct();
+        }
+    }
+}
+

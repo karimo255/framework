@@ -1,0 +1,49 @@
+<?php
+
+function autoloadModel($className) {
+    $className = strtolower($className);
+    $filename = APP . "models/" . $className . ".php";
+    if (is_readable($filename)) {
+        require $filename;
+    }
+}
+ 
+function autoloadController($className) {
+    $className = strtolower($className);
+    $filename = APP ."controllers/" . $className . ".php";
+    if (is_readable($filename)) {
+        require $filename;
+    }
+}
+
+function autoloadView($className) {
+    $className = strtolower($className);
+    $filename = APP ."views/" . $className . ".php";
+    if (is_readable($filename)) {
+        require $filename;
+    }
+}
+ 
+function autoloadCore($className) {
+    $className = strtolower($className);
+    $filename = APP ."core/" . $className . ".php";
+    if (is_readable($filename)) {
+        require $filename;
+    }
+}
+
+function autoloadLib($className) {
+    $className = strtolower($className);
+    $filename = ROOT ."lib/" . $className . ".php";
+    if (is_readable($filename)) {
+        require $filename;
+    }
+}
+
+spl_autoload_register("autoloadModel");
+spl_autoload_register("autoloadController");
+spl_autoload_register("autoloadView");
+spl_autoload_register("autoloadCore");
+spl_autoload_register("autoloadLib");
+
+
