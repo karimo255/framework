@@ -18,7 +18,7 @@
                 <a class="img-link with-padding">
                     <span class="img-first-span  table-display">
                         <span class="img-second-span table-cell">
-                            <img src="/framework/public/img/shop/41hSJRRe8aL.jpg">
+                            <img src="public/img/shop/41hSJRRe8aL.jpg">
                         </span>
                     </span>
                     <p>Image 1</p>
@@ -30,7 +30,7 @@
                 <a class="img-link">
                     <span class="img-first-span table-display">
                         <span class="img-second-span table-cell">
-                            <img src="/framework/public/img/shop/maus_56ddmk.jpg">
+                            <img src="public/img/shop/maus_56ddmk.jpg">
                         </span>
                     </span>
                     <p>Image 1</p>
@@ -42,7 +42,7 @@
                 <a class="img-link">
                     <span class="img-first-span table-display">
                         <span class="img-second-span table-cell">
-                            <img src="/framework/public/img/shop/71qtarUF38L._SL1500_.jpg">
+                            <img src="public/img/shop/71qtarUF38L._SL1500_.jpg">
                         </span>
                     </span>
                     <p>Image 1</p>
@@ -62,7 +62,7 @@
                 <a class="img-link">
                     <span class="img-first-span  table-display">
                         <span class="img-second-span table-cell">
-                            <img src="/framework/public/img/shop/71P8Pfd7npL._SL1500_.jpg">
+                            <img src="public/img/shop/71P8Pfd7npL._SL1500_.jpg">
                         </span>
                     </span>
                     <p>Image 1</p>
@@ -73,7 +73,7 @@
                 <a class="img-link">
                     <span class="img-first-span  table-display">
                         <span class="img-second-span table-cell">
-                            <img src="/framework/public/img/shop/619N48otbHL._SL1280_.jpg">
+                            <img src="public/img/shop/619N48otbHL._SL1280_.jpg">
                         </span>
                     </span>
                     <p>Image 1</p>
@@ -84,7 +84,7 @@
                 <a class="img-link">
                     <span class="img-first-span  table-display">
                         <span class="img-second-span table-cell">
-                            <img src="/framework/public/img/shop/71b87alvqzL._SL1500_.jpg">
+                            <img src="public/img/shop/71b87alvqzL._SL1500_.jpg">
                         </span>
                     </span>
                     <p>Image 1</p>
@@ -95,7 +95,7 @@
                 <a class="img-link">
                     <span class="img-first-span  table-display">
                         <span class="img-second-span table-cell">
-                            <img src="/framework/public/img/shop/41hSJRRe8aL.jpg">
+                            <img src="public/img/shop/41hSJRRe8aL.jpg">
                         </span>
                     </span>
                     <p>Image 1</p>
@@ -106,7 +106,7 @@
                 <a class="img-link">
                     <span class="img-first-span  table-display">
                         <span class="img-second-span table-cell">
-                            <img src="/framework/public/img/shop/61kwHs2jDaL._SL1500_.jpg">
+                            <img src="public/img/shop/61kwHs2jDaL._SL1500_.jpg">
                         </span>
                     </span>
                     <p>Image 1</p>
@@ -117,7 +117,7 @@
                 <a class="img-link">
                     <span class="img-first-span  table-display">
                         <span class="img-second-span table-cell">
-                            <img src="/framework/public/img/shop/41hSJRRe8aL.jpg">
+                            <img src="public/img/shop/41hSJRRe8aL.jpg">
                         </span>
                     </span>
                     <p>Image 1</p>
@@ -128,7 +128,7 @@
                 <a class="img-link">
                     <span class="img-first-span  table-display">
                         <span class="img-second-span table-cell">
-                            <img src="/framework/public/img/shop/91RnqL0oOqL._SL1500_.jpg">
+                            <img src="public/img/shop/91RnqL0oOqL._SL1500_.jpg">
                         </span>
                     </span>
                     <p>Image 1</p>
@@ -139,7 +139,7 @@
                 <a class="img-link">
                     <span class="img-first-span  table-display">
                         <span class="img-second-span table-cell">
-                            <img src="/framework/public/img/shop/41hSJRRe8aL.jpg">
+                            <img src="public/img/shop/41hSJRRe8aL.jpg">
                         </span>
                     </span>
                     <p>Image 1</p>
@@ -149,7 +149,7 @@
                 <a class="img-link">
                     <span class="img-first-span  table-display">
                         <span class="img-second-span table-cell">
-                            <img src="/framework/public/img/shop/41hSJRRe8aL.jpg">
+                            <img src="public/img/shop/41hSJRRe8aL.jpg">
                         </span>
                     </span>
                     <p>Image 1</p>
@@ -160,7 +160,7 @@
                 <a class="img-link">
                     <span class="img-first-span  table-display">
                         <span class="img-second-span table-cell">
-                            <img src="/framework/public/img/shop/91RnqL0oOqL._SL1500_.jpg">
+                            <img src="public/img/shop/91RnqL0oOqL._SL1500_.jpg">
                         </span>
                     </span>
                     <p>Image 1</p>
@@ -171,7 +171,7 @@
                 <a class="img-link">
                     <span class="img-first-span  table-display">
                         <span class="img-second-span table-cell">
-                            <img src="/framework/public/img/shop/41hSJRRe8aL.jpg">
+                            <img src="public/img/shop/41hSJRRe8aL.jpg">
                         </span>
                     </span>
                     <p>Image 1</p>
@@ -181,7 +181,7 @@
                 <a class="img-link">
                     <span class="img-first-span  table-display">
                         <span class="img-second-span table-cell">
-                            <img src="/framework/public/img/shop/41hSJRRe8aL.jpg">
+                            <img src="public/img/shop/41hSJRRe8aL.jpg">
                         </span>
                     </span>
                     <p>Image 1</p>

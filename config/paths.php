@@ -1,5 +1,5 @@
 <?php
-define('ROOT', $_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'framework' .  DIRECTORY_SEPARATOR);
+define('ROOT', $_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR  );
 define('LIB', ROOT .'lib/');
 define('TOOLS', ROOT .'tools/');
 define('APP', ROOT . 'app/' );

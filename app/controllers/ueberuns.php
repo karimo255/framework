@@ -4,7 +4,7 @@ if (!class_exists('ueberuns')) {
 
     class ueberuns extends mainView {
 
-        public $model;
+        public  $model;
         private $registry;
         private $session;
         private $template;
@@ -20,7 +20,7 @@ if (!class_exists('ueberuns')) {
         }
 
         public function index() {
-            include TEMPLATES . 'hauptSeite/home.tpl';
+            include TEMPLATES . 'hauptSeite/ueberuns.tpl';
         }
 
         private function cleanCode($code) {

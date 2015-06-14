@@ -8,7 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
 
         <style type="text/css">{css}</style>    
-        <link rel="stylesheet" href="framework/public/css/font-awesome-4.2.0/css/font-awesome.min.css">		
+        <link rel="stylesheet" href="public/css/font-awesome-4.2.0/css/font-awesome.min.css">		
         <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
     </head>
     <body>
@@ -53,7 +53,7 @@
                 <div class="site-header table-display">
                     <div class='site-header-ein-drittel table-cell'>
                         <div class="site-logo">
-                            <a><img src="/framework/public/img/system/logo_1674515_web.jpg"></a>
+                            <a href="/"><img src="public/img/system/logo_1674515_web.jpg"></a>
                         </div>
                     </div>
                     <div class='site-header-zwei-drittel table-cell desktop'>
@@ -70,7 +70,7 @@
                                     </ul>
                                 </li>
                                 <li><a>Blog</a></li>
-                                <li><a href="/framework/ueberuns">Über uns</a></li>
+                                <li><a href="ueberuns">Über uns</a></li>
                             </ul>
                         </div>
                     </div>
