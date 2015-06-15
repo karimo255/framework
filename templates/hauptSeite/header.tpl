@@ -6,10 +6,9 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
         <script type="text/javascript">{java}</script>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
-
+        <link rel="stylesheet" href="/public/css/font-awesome-4.2.0/css/font-awesome.min.css">		
         <style type="text/css">{css}</style>    
-        <link rel="stylesheet" href="public/css/font-awesome-4.2.0/css/font-awesome.min.css">		
-        <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+        <!--<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">-->
     </head>
     <body>
         <div class="header-bar">
@@ -39,7 +38,7 @@
 
                 </div> 
             </div>
-            
+
             <div class="wrapper mobile">
                 <button id="mobileNavTrigger" class="mobile-nav-trigger">
                     <span><i class="icon-align-justify"></i></span>
@@ -51,6 +50,19 @@
         <header>
             <div class="wrapper">
                 <div class="site-header table-display">
+                    <div class='site-header-zwei-drittel table-cell mobile'>
+                        <div class="">
+                            <ul class="site-nav">
+                                <li>Desktop PCs</li>
+                                <li>Notebooks</li>
+                                <li>Smartphones</li>
+                                <li>Storage</li>
+                                <li>Accessoirs</li>                                        
+                                <li><a href="blog">Blog</a></li>
+                                <li><a href="ueberuns">Über uns</a></li>
+                            </ul>
+                        </div>
+                    </div>                    
                     <div class='site-header-ein-drittel table-cell'>
                         <div class="site-logo">
                             <a href="/"><img src="public/img/system/logo_1674515_web.jpg"></a>
