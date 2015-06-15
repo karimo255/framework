@@ -19,9 +19,9 @@
             <div class="footer-teil table-cell">
                 <h4>Verbinden</h4>
                 <ul class="verbinden">
-                    <li><a><span><i class="icon-twitter"></i></span></a></li>
-                    <li><a><span><i class="icon-facebook"></i></span></a></li>
-                    <li><a><span><i class="icon-rss"></i></span></a></li>
+                    <li><a><span><i class="fa fa-twitter"></i></span></a></li>
+                    <li><a><span><i class="fa fa-facebook"></i></span></a></li>
+                    <li><a><span><i class="fa fa-rss"></i></span></a></li>
 
                 </ul>
             </div> 

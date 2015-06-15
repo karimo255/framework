@@ -7,12 +7,12 @@ html {
 * {
     box-sizing: border-box;
 }
-.header-bar a{
+.header-bar a {
     color: white;
 }
-a{
-    text-decoration: none;
+a {
     color: #333;
+    text-decoration: none;
 }
 body, html {
     margin: 0;
@@ -328,11 +328,9 @@ hr {
     color: #388abc;
     text-align: center;
 }
-
 .img-first-span {
     height: 200px;
 }
-
 .img-second-span {
     padding: 0;
 }
@@ -348,6 +346,7 @@ hr {
 }
 .mobile-nav-trigger {
     color: white;
+    cursor: pointer;
     display: block;
     float: left;
 }
@@ -372,31 +371,48 @@ hr {
 header {
     text-align: center;
 }
+.header-bar {
+    padding-bottom: 0;
+}
 .header-bar__message_mobile {
     display: block;
 }
 .grid-ein-fuenftel {
     display: none;
 }
-.grid-vier-fuenftel{
-    width: 100%;
+.grid-vier-fuenftel {
     padding: 0 5px;
+    width: 100%;
 }
 .with-padding {
     display: block !important;
     float: left;
-    width: 50%;
     padding: 2px;
+    width: 50%;
 }
 .table-cell.with-padding:nth-child(2n+1) {
     clear: both;
 }
-
 .table-cell.ein-von-vielen-viertels:nth-child(2n+1) {
     clear: both;
 }
 .ein-von-vielen-viertels {
     float: left;
     width: 50%;
+}
+.site-header-ein-drittel.table-cell {
+    display: block;
+    width: 100%;
+}
+.site-header-hundert-prozent.table-cell.mobile {
+    border-top: 1px solid;
+    margin-top: 10px;
+    padding: 0;
+    text-align: left;
+    width: 100%;
+}
+.site-nav-display-block > li {
+    border-bottom: 1px solid gray;
+    padding: 7px 0 7px 15px;
 }
 }
