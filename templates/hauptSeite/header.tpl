@@ -47,14 +47,14 @@
                 </button>
                 <a class="mobile-cart"><span class="shopping-cart"><i class="fa fa-shopping-cart"></i></span>Einkaufswagen</a>
             </div>
-            <div class='site-header-hundert-prozent table-cell mobile'>
-                <div id="flexible-menue-teil">
+            <div id="flexibleMenuTeil" class='site-header-hundert-prozent table-cell mobile'>
+                <div >
                     <ul class="site-nav-display-block">
-                        <li>Desktop PCs</li>
-                        <li>Notebooks</li>
-                        <li>Smartphones</li>
-                        <li>Storage</li>
-                        <li>Accessoirs</li>                                        
+                        <li><a>Desktop PCs</a></li>
+                        <li><a>Notebooks</a></li>
+                        <li><a>Smartphones</a></li>
+                        <li><a>Storage</a></li>
+                        <li><a>Accessoirs</a></li>                                        
                         <li><a href="blog">Blog</a></li>
                         <li><a href="ueberuns">Über uns</a></li>
                     </ul>

@@ -155,9 +155,7 @@ ul {
     margin: 0;
     padding: 13px !important;
 }
-.site-logo > a {
-    display: block;
-}
+
 .site-nav li a {
     color: #333;
     display: block;
@@ -370,6 +368,7 @@ hr {
 }
 header {
     text-align: center;
+    padding: 20px 0;
 }
 .header-bar {
     padding-bottom: 0;
@@ -404,15 +403,26 @@ header {
     display: block;
     width: 100%;
 }
+.header-bar .wrapper.mobile {
+    padding-bottom: 10px;
+}
 .site-header-hundert-prozent.table-cell.mobile {
     border-top: 1px solid;
-    margin-top: 10px;
+    display: none;
     padding: 0;
     text-align: left;
     width: 100%;
 }
 .site-nav-display-block > li {
     border-bottom: 1px solid gray;
+}
+
+.site-nav-display-block a {
+    display: block;
     padding: 7px 0 7px 15px;
+}
+.site-nav-display-block > li a:hover {
+    background: white;
+    color: #388abc;
 }
 }
