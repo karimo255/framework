@@ -21,7 +21,7 @@ class SMTP_mail {
 
         $host = "smtp.gmail.com";
         $username = "karimo255";
-        $password = "daslebenisthart45";
+        $password = "*********";
 
         $headers = array(
             'MIME-Version' => '1.0',
